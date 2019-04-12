@@ -1,0 +1,12 @@
+C:\Users\АдылкановМ.CORP\source\repos\Hotel\HotelApp.Models\bin\Debug\HotelApp.Models.dll
+C:\Users\АдылкановМ.CORP\source\repos\Hotel\HotelApp.Models\bin\Debug\HotelApp.Models.pdb
+C:\Users\АдылкановМ.CORP\source\repos\Hotel\HotelApp.Models\obj\Debug\HotelApp.Models.csprojAssemblyReference.cache
+C:\Users\АдылкановМ.CORP\source\repos\Hotel\HotelApp.Models\obj\Debug\HotelApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\АдылкановМ.CORP\source\repos\Hotel\HotelApp.Models\obj\Debug\HotelApp.Models.dll
+C:\Users\АдылкановМ.CORP\source\repos\Hotel\HotelApp.Models\obj\Debug\HotelApp.Models.pdb
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.Models\bin\Debug\HotelApp.Models.dll
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.Models\bin\Debug\HotelApp.Models.pdb
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.Models\obj\Debug\HotelApp.Models.csprojAssemblyReference.cache
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.Models\obj\Debug\HotelApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.Models\obj\Debug\HotelApp.Models.dll
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.Models\obj\Debug\HotelApp.Models.pdb

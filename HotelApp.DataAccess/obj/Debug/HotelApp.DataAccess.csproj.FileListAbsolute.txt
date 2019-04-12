@@ -1,0 +1,11 @@
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.DataAccess\bin\Debug\Database.mdf
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.DataAccess\bin\Debug\Database_log.ldf
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.DataAccess\bin\Debug\HotelApp.DataAccess.dll
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.DataAccess\bin\Debug\HotelApp.DataAccess.pdb
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.DataAccess\bin\Debug\HotelApp.Models.dll
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.DataAccess\bin\Debug\HotelApp.Models.pdb
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.DataAccess\obj\Debug\HotelApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.DataAccess\obj\Debug\HotelApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.DataAccess\obj\Debug\HotelApp.DataAccess.csproj.CopyComplete
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.DataAccess\obj\Debug\HotelApp.DataAccess.dll
+C:\Users\ТынышбаевА.CORP\Desktop\Hotel.PractWork-master\HotelApp.DataAccess\obj\Debug\HotelApp.DataAccess.pdb
